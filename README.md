@@ -1,1 +1,1 @@
-## The implemented logic is in App.jsx
+## The implemented logic is in App.js
